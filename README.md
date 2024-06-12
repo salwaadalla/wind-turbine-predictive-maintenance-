@@ -1,4 +1,3 @@
-# wind-turbine-predictive-maintenance-
 
 # Predictive Maintenance for Wind Turbines Using Machine Learning
 # Project Description
